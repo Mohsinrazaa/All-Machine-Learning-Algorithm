@@ -9,6 +9,15 @@ Build the linear regression model using scikit learn in boston data to predict
 I decided to treat this as a classification problem by creating a new binary
 variable affair (did the woman have at least one affair?) and trying to
 predict the classification for each woman.
+## 3. KNN
+
+In this assignment, students will be using the K-nearest neighbors
+algorithm to predict how many points NBA players scored in the 2013-2014
+season.
+A look at the data
+Before we dive into the algorithm, let’s take a look at our data. Each row in
+the data contains information on how a player performed in the 2013-2014
+NBA season.
 ## 4. Decision Tree
 
 Predicting Survival in the Titanic Data Set
@@ -16,6 +25,11 @@ We will be using a decision tree to make predictions about the Titanic data
 set from Kaggle. This data set provides information on the Titanic
 passengers and can be used to predict whether a passenger survived or
 not.
+## 5. XGBoost
+
+In this assignment students need to predict whether a person makes over
+50K per year or not from classic adult dataset using XGBoost. The
+description of the dataset is as follows:
 ## 6. Random Forest
 
 In this assignment students will build the random forest model after
