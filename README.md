@@ -34,3 +34,10 @@ description of the dataset is as follows:
 
 In this assignment students will build the random forest model after
 normalizing the variable to house pricing from boston data set.
+## 7. Classification
+> Problem 1:
+Prediction task is to determine whether a person makes over 50K a year.
+> Problem 2:
+Which factors are important
+> Problem 3:
+Which algorithms are best for this dataset
